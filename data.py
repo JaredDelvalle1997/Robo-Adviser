@@ -17,7 +17,7 @@ print(stock)
 
 allocation = {
     "age": age,
-    "Stock": stock
+    "stock": stock
 }
 
 
